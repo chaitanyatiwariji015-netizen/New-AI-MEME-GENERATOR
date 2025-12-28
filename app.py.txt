@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("Hello AI Meme Generator")
+
+st.write("App is running fine!")
